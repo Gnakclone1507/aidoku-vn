@@ -21,14 +21,14 @@
 		"filters": [
 			{
 				"type": "genre",
-				"name": "16+",
-				"id": "54",
+				"name": "Slice of life",
+				"id": "33",
 				"canExclude": true
 			},
 			{
 				"type": "genre",
-				"name": "18+",
-				"id": "45",
+				"name": "Bạo lực - máu me",
+				"id": "67",
 				"canExclude": true
 			},
 			{
@@ -57,8 +57,8 @@
 			},
 			{
 				"type": "genre",
-				"name": "Bạo lực - Máu me",
-				"id": "67",
+				"name": "Hành động",
+				"id": "45",
 				"canExclude": true
 			},
 			{
@@ -69,8 +69,8 @@
 			},
 			{
 				"type": "genre",
-				"name": "Comic",
-				"id": "6",
+				"name": "Romantic",
+				"id": "25",
 				"canExclude": true
 			},
 			{
@@ -93,8 +93,8 @@
 			},
 			{
 				"type": "genre",
-				"name": "Event BT",
-				"id": "60",
+				"name": "History",
+				"id": "13",
 				"canExclude": true
 			},
 			{
@@ -105,8 +105,8 @@
 			},
 			{
 				"type": "genre",
-				"name": "Full màu",
-				"id": "64",
+				"name": "Dungeon",
+				"id": "9",
 				"canExclude": true
 			},
 			{
@@ -129,14 +129,8 @@
 			},
 			{
 				"type": "genre",
-				"name": "Historical",
-				"id": "13",
-				"canExclude": true
-			},
-			{
-				"type": "genre",
-				"name": "Horror",
-				"id": "14",
+				"name": "Tower Climbing",
+				"id": "53",
 				"canExclude": true
 			},
 			{
@@ -149,18 +143,6 @@
 				"type": "genre",
 				"name": "Josei",
 				"id": "15",
-				"canExclude": true
-			},
-			{
-				"type": "genre",
-				"name": "Live action",
-				"id": "16",
-				"canExclude": true
-			},
-			{
-				"type": "genre",
-				"name": "Magic",
-				"id": "46",
 				"canExclude": true
 			},
 			{
@@ -195,12 +177,6 @@
 			},
 			{
 				"type": "genre",
-				"name": "Mecha",
-				"id": "21",
-				"canExclude": true
-			},
-			{
-				"type": "genre",
 				"name": "Mystery",
 				"id": "22",
 				"canExclude": true
@@ -219,26 +195,20 @@
 			},
 			{
 				"type": "genre",
-				"name": "NTR",
-				"id": "62",
-				"canExclude": true
-			},
-			{
-				"type": "genre",
 				"name": "One shot",
 				"id": "23",
 				"canExclude": true
 			},
 			{
 				"type": "genre",
-				"name": "Psychological",
-				"id": "24",
+				"name": "Trùng sinh",
+				"id": "63",
 				"canExclude": true
 			},
 			{
 				"type": "genre",
-				"name": "Romance",
-				"id": "25",
+				"name": "Horror",
+				"id": "14",
 				"canExclude": true
 			},
 			{
@@ -249,62 +219,14 @@
 			},
 			{
 				"type": "genre",
-				"name": "Sci-fi",
-				"id": "27",
-				"canExclude": true
-			},
-			{
-				"type": "genre",
-				"name": "Seinen",
-				"id": "28",
-				"canExclude": true
-			},
-			{
-				"type": "genre",
 				"name": "Shoujo",
 				"id": "29",
 				"canExclude": true
 			},
 			{
 				"type": "genre",
-				"name": "Shoujo Ai",
-				"id": "30",
-				"canExclude": true
-			},
-			{
-				"type": "genre",
 				"name": "Shounen",
 				"id": "31",
-				"canExclude": true
-			},
-			{
-				"type": "genre",
-				"name": "Shounen Ai",
-				"id": "32",
-				"canExclude": true
-			},
-			{
-				"type": "genre",
-				"name": "Slice of life",
-				"id": "33",
-				"canExclude": true
-			},
-			{
-				"type": "genre",
-				"name": "Smut",
-				"id": "34",
-				"canExclude": true
-			},
-			{
-				"type": "genre",
-				"name": "Soft Yaoi",
-				"id": "35",
-				"canExclude": true
-			},
-			{
-				"type": "genre",
-				"name": "Soft Yuri",
-				"id": "36",
 				"canExclude": true
 			},
 			{
@@ -321,62 +243,20 @@
 			},
 			{
 				"type": "genre",
-				"name": "Tạp chí truyện tranh",
-				"id": "39",
-				"canExclude": true
-			},
-			{
-				"type": "genre",
 				"name": "Tragedy",
 				"id": "40",
 				"canExclude": true
 			},
 			{
 				"type": "genre",
-				"name": "Trap (Crossdressing)",
-				"id": "58",
-				"canExclude": true
-			},
-			{
-				"type": "genre",
-				"name": "Trinh Thám",
+				"name": "Trinh ThámThám",
 				"id": "57",
-				"canExclude": true
-			},
-			{
-				"type": "genre",
-				"name": "Truyện scan",
-				"id": "41",
-				"canExclude": true
-			},
-			{
-				"type": "genre",
-				"name": "Tu chân - tu tiên",
-				"id": "66",
-				"canExclude": true
-			},
-			{
-				"type": "genre",
-				"name": "Video Clip",
-				"id": "53",
-				"canExclude": true
-			},
-			{
-				"type": "genre",
-				"name": "VnComic",
-				"id": "42",
 				"canExclude": true
 			},
 			{
 				"type": "genre",
 				"name": "Webtoon",
 				"id": "52",
-				"canExclude": true
-			},
-			{
-				"type": "genre",
-				"name": "Yuri",
-				"id": "59",
 				"canExclude": true
 			}
 		]
