@@ -20,7 +20,7 @@ IPA mới nhất sẽ luôn có sẵn từ [releases page](https://github.com/Ju
 Kho lưu trữ này lưu trữ các nguồn công khai có thể cài đặt trực tiếp thông qua ứng dụng Aidoku.
 
 ## Cách thêm nguồn vào Aidoku
-[Nhấn vào đây để thêm Source](https://aidoku.app/add-source-list/?url=https://raw.githubusercontent.com/Gnakclone1507/Aidoku/gh-pages/).
+[Nhấn vào đây để thêm Source](https://aidoku.app/add-source-list/?url=https://raw.githubusercontent.com/Gnakclone1507/aidoku/gh-pages/).
 Khi nhấn vào sẽ tự chuyển tiếp qua ứng dụng Aidoku.
 
 ## Contributing
