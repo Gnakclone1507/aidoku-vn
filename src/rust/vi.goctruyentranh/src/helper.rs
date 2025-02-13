@@ -56,7 +56,7 @@ pub fn category_parser(categories: &Vec<String>) -> (MangaContentRating, MangaVi
 	let mut viewer = MangaViewer::Rtl;
 	for category in categories {
 		match category.as_str() {
-			"Smut" | "Mature" | "18+" => nsfw = MangaContentRating::Nsfw,
+			"Anime" | "Mature" | "Tower Climbing" => nsfw = MangaContentRating::Nsfw,
 			"Ecchi" | "16+" => {
 				nsfw = match nsfw {
 					MangaContentRating::Nsfw => MangaContentRating::Nsfw,
